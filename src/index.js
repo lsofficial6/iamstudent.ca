@@ -12,10 +12,12 @@ import './index.css'
 
 
 
+
 ReactDOM.render(
     <>
     <Header/>
     <BrowserRouter>
+    <Home/>
     <NewDrawer/>
     </BrowserRouter>
     <Footer/>
