@@ -2,17 +2,15 @@ import React from "react";
 import ContactUs from "./ContactUs";
 import AboutUs from "./AboutUs";
 import { Link } from "react-router-dom";
-
-
-
-
 import Thankyou from "./Thankyou";
 import Card from "./Employe";
 import Counter from "./Counter";
 import logo from "../images/clip.svg";
 import FollowUs from "./FollowUs";
 import Testimonial from "./Testimonial";
-import { Col, Row, Container } from "react-bootstrap";
+import AccordionTwo from "./Accordion/AccordionTwo";
+
+import { Col, Row, Container, Button } from "react-bootstrap";
 
 
 
@@ -30,7 +28,8 @@ const Home = () => {
               <h1 className=" display-3 text-center "> Welcome to www.iamstudent.CA</h1>
               <h1 className=" display-6 text-center typewriter">One platform for all student needs</h1>
               <Link to="/signup" variant="body2">
-                <h1 className="btn btn-warning rounded ">Join Us Now</h1></Link>
+                    <Button className="p5">Register yourself Now</Button>
+                  </Link>
             </Col>
             <Col >
               <img className="logo" src={logo} alt="logo" />
@@ -46,16 +45,17 @@ const Home = () => {
           </svg>
         </div>
 
-      </div>
+      </div>  
 
-      <AboutUs />
-      <Counter />
+      <AboutUs />  
+      <Counter /> 
+      <AccordionTwo/>
       <ContactUs />
       <Testimonial />
-      <FollowUs/>
-      <Card/>
+      <FollowUs />
+      <Card />
       <Thankyou />
-      
+
 
 
 

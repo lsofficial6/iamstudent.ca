@@ -1,5 +1,4 @@
 
-
 import * as React from 'react';
 import Avatar from '@mui/material/Avatar';
 import Button from '@mui/material/Button';
@@ -14,8 +13,7 @@ import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import {NavLink,Link,  BrowserRouter, Route, Routes} from "react-router-dom";
-import SignUp from './Signup';
+import { Link } from 'react-router-dom';
 
 const theme = createTheme();
 

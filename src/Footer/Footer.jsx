@@ -1,12 +1,9 @@
 import React from "react";
-import NewDrawer from "../Components/CustomDrawer";
-import { BrowserRouter } from "react-router-dom";
-
 
 const Footer=()=>{
     return(
         <>
-        <BrowserRouter>
+       
         <footer className="border-top container_fluid text-center align-items-center justify-content-center d-flex text-lg-start mt-5">
     <section
   data-bs-version="5.1"
@@ -75,7 +72,7 @@ const Footer=()=>{
 </section>
 
     </footer>
-</BrowserRouter>
+
 
         </>
     );

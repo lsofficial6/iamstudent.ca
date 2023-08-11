@@ -29,6 +29,7 @@ export default function Thankyou() {
         </div>
         
         
+        
         </>
         
         

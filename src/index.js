@@ -11,11 +11,12 @@ import Home from "./Components/Home";
 
 ReactDOM.render(
     <>
-    <Header/>
     <BrowserRouter>
-    <Home/>
+    <Header/>
+    
+    
     <NewDrawer/>
-    </BrowserRouter>
     <Footer/>
+    </BrowserRouter>
     </>
 ,document.getElementById("root"));

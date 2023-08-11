@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 const AccordionData = [
     { id: 1,

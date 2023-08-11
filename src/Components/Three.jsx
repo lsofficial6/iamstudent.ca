@@ -1,5 +1,4 @@
 import React from 'react';
-import Employe from './Employe';
 
 
 const Three =(prop)=>{
