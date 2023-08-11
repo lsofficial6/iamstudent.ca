@@ -5,6 +5,7 @@ import Header from "./Header/Header";
 import NewDrawer from "./Components/CustomDrawer";
 import { BrowserRouter } from "react-router-dom";
 import './index.css'
+import Home from "./Components/Home";
 
 
 
