@@ -30,9 +30,9 @@ const Header=()=>{
       
         <Route path="/" element={<Home/>}/>
         <Route path="" element={<Home/>}/>
-        <Route path="/iamstudent.uk" element={<Home/>}/>
-        <Route path="/iamstudent.uk/" element={<Home/>}/>
-        <Route path="iamstudent.uk/" element={<Home/>}/>
+        <Route path="/iamstudent.ca" element={<Home/>}/>
+        <Route path="/iamstudent.ca/" element={<Home/>}/>
+        <Route path="iamstudent.ca/" element={<Home/>}/>
         <Route path="redirect" element={<Navigate to="home"/>}/>
         
         <Route  path="signin" element={<SignIn/>}/>
