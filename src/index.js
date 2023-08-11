@@ -8,11 +8,6 @@ import './index.css'
 
 
 
-
-
-
-
-
 ReactDOM.render(
     <>
     <Header/>
