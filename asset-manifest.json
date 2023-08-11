@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/iamstudent.ca/static/css/main.755c0588.css",
+    "main.js": "/iamstudent.ca/static/js/main.3bc16d00.js",
+    "static/media/clip.svg": "/iamstudent.ca/static/media/clip.cfa343cc1679b6c647ec651232ffb323.svg",
+    "static/media/9.jpg": "/iamstudent.ca/static/media/9.f8ad501c2e8c5d17fa8c.jpg",
+    "static/media/1.jfif": "/iamstudent.ca/static/media/1.c4caba3713109a5cdadc.jfif",
+    "static/media/2.jfif": "/iamstudent.ca/static/media/2.7c62947390e3c052ee1c.jfif",
+    "static/media/5.jfif": "/iamstudent.ca/static/media/5.031cf72a118d3b04da12.jfif",
+    "static/media/4.jfif": "/iamstudent.ca/static/media/4.8e5a1f257ada6f4cab4a.jfif",
+    "index.html": "/iamstudent.ca/index.html",
+    "static/media/canada.svg": "/iamstudent.ca/static/media/canada.e94abccce46151f80fdeb7cafd0b58ea.svg",
+    "main.755c0588.css.map": "/iamstudent.ca/static/css/main.755c0588.css.map",
+    "main.3bc16d00.js.map": "/iamstudent.ca/static/js/main.3bc16d00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.755c0588.css",
+    "static/js/main.3bc16d00.js"
+  ]
+}
